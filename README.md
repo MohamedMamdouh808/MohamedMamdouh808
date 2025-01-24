@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohamedMamdouh808
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning java scrip
+- 🌱 I’m currently learning java script
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - my email: mohamedmamdouh56789@gmail.com
